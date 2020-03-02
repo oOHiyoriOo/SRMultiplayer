@@ -1,0 +1,37 @@
+Mono path[0] = 'C:/Program Files/Slime.Rancher.v1.4.1c/SlimeRancher_Data/Managed'
+Mono config path = 'C:/Program Files/Slime.Rancher.v1.4.1c/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.5f1 (9dace1eed4cc)
+[XR] Discovering subsystems at path C:/Program Files/Slime.Rancher.v1.4.1c/SlimeRancher_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   (null)
+    VRAM:     3072 MB
+    Driver:   26.21.14.4166
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.102 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.713200 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2c54 -> priority: 1 
+  Thread -> id: f84 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.594500 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2800.
+Total: 3.705100 ms (FindLiveObjects: 0.340700 ms CreateObjectMapping: 0.239400 ms MarkObjects: 3.085000 ms  DeleteObjects: 0.039000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'SR/Null Render' - Pass '' has no vertex shader
+UnloadTime: 0.731000 ms
+Joystick Names: 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[INFO] [Culture=en]
+[INFO] [Culture=de]
+Fallback handler could not load library C:/Program Files/Slime.Rancher.v1.4.1c/SlimeRancher_Data/Mono/data-26EEA020.dll
+Fallback handler could not load library C:/Program Files/Slime.Rancher.v1.4.1c/SlimeRancher_Data/Mono/data-194861F0.dll

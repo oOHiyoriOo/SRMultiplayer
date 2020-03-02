@@ -1,0 +1,1633 @@
+Mono path[0] = 'C:/Program Files/Slime.Rancher.v1.4.1c/SlimeRancher_Data/Managed'
+Mono config path = 'C:/Program Files/Slime.Rancher.v1.4.1c/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.5f1 (9dace1eed4cc)
+[XR] Discovering subsystems at path C:/Program Files/Slime.Rancher.v1.4.1c/SlimeRancher_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   (null)
+    VRAM:     3072 MB
+    Driver:   26.21.14.4166
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.102 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.598300 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 19e4 -> priority: 1 
+  Thread -> id: 298c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.613100 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2800.
+Total: 1.904200 ms (FindLiveObjects: 0.255700 ms CreateObjectMapping: 0.138600 ms MarkObjects: 1.465300 ms  DeleteObjects: 0.044400 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'SR/Null Render' - Pass '' has no vertex shader
+UnloadTime: 0.667400 ms
+Joystick Names: 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[INFO] [Culture=en]
+[WARNING] File not found [Path=C:/Users/flopi/AppData/LocalLow/Monomi Park/Slime Rancher\slimerancher.prf]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[INFO] [Culture=en]
+Fallback handler could not load library C:/Program Files/Slime.Rancher.v1.4.1c/SlimeRancher_Data/Mono/data-3C6BF010.dll
+Fallback handler could not load library C:/Program Files/Slime.Rancher.v1.4.1c/SlimeRancher_Data/Mono/data-3C08F460.dll
+Fallback handler could not load library C:/Program Files/Slime.Rancher.v1.4.1c/SlimeRancher_Data/Mono/libc
+Fallback handler could not load library C:/Program Files/Slime.Rancher.v1.4.1c/SlimeRancher_Data/Mono/libc.dll
+Fallback handler could not load library C:/Program Files/Slime.Rancher.v1.4.1c/SlimeRancher_Data/Mono/libc
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 95798.
+Total: 126.905800 ms (FindLiveObjects: 5.253800 ms CreateObjectMapping: 5.853300 ms MarkObjects: 115.378900 ms  DeleteObjects: 0.419200 ms)
+
+Fallthrough destroying: slimeTabby
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[INFO] [Culture=de]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 27.606900 ms
+[INFO] [Culture=en]
+[INFO] [Culture=de]
+
+Unloading 95 unused Assets to reduce memory usage. Loaded Objects now: 519216.
+Total: 256.244500 ms (FindLiveObjects: 28.206400 ms CreateObjectMapping: 11.719200 ms MarkObjects: 213.628600 ms  DeleteObjects: 2.689600 ms)
+
+Fallthrough destroying: birdChick(Clone)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[WARNING] Saving game and profile...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[WARNING] setting initial gameid [currentGameId=, nextFileName=20200302164114_uwu_0]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 247.875900 ms
+[INFO] [Culture=en]
+sending exception to sentry.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Releasing render texture that is set as Camera.targetTexture!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Camera/Camera.cpp Line: 4549)
+
+
+Unloading 4182 unused Assets to reduce memory usage. Loaded Objects now: 102989.
+Total: 209.823800 ms (FindLiveObjects: 7.660700 ms CreateObjectMapping: 8.984700 ms MarkObjects: 148.068500 ms  DeleteObjects: 45.108900 ms)
+
+[INFO] [Culture=de]
+Sentry sent back: {"id":"e539a532a1c14a22a5ca09cc73a2b5e7"}
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Fallthrough destroying: slimeTabby
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Fallthrough destroying: slimeTabby
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Fallthrough destroying: slimePink
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Fallthrough destroying: slimePink
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Socket bound to 0.0.0.0:1337: True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Attempting UPnP discovery
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Network thread started
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+UPnP service ready
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+UPnP service ready
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+UPnP port forward failed: The remote server returned an error: (500) Internal Server Error.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Socket bound to 0.0.0.0:57903: True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Network thread started
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+0000000000000000 InitiatedConnect: user called connect
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+3E0B789F5E1D9237 RespondedAwaitingApproval: Awaiting approval
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+3E0B789F5E1D9237 RespondedConnect: Remotely requested connect
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Failed to parse UPnP response: System.Xml.XmlException: Data at the root level is invalid. Line 1, position 1.
+  at System.Xml.XmlTextReaderImpl.Throw (System.Exception e) [0x00027] in <b92efb6eef6e41b5abd458f107e6d92e>:0 
+  at System.Xml.XmlTextReaderImpl.Throw (System.String res, System.String arg) [0x00029] in <b92efb6eef6e41b5abd458f107e6d92e>:0 
+  at System.Xml.XmlTextReaderImpl.Throw (System.String res) [0x00000] in <b92efb6eef6e41b5abd458f107e6d92e>:0 
+  at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace () [0x0012c] in <b92efb6eef6e41b5abd458f107e6d92e>:0 
+  at System.Xml.XmlTextReaderImpl.ParseDocumentContent () [0x002d4] in <b92efb6eef6e41b5abd458f107e6d92e>:0 
+  at System.Xml.XmlTextReaderImpl.Read () [0x0008c] in <b92efb6eef6e41b5abd458f107e6d92e>:0 
+  at System.Xml.XmlLoader.Load (System.Xml.XmlDocument doc, System.Xml.XmlReader reader, System.Boolean preserveWhitespace) [0x000a6] in <b92efb6eef6e41b5abd458f107e6d92e>:0 
+  at System.Xml.XmlDocument.Load (System.Xml.XmlReader reader) [0x0002e] in <b92efb6eef6e41b5abd458f107e6d92e>:0 
+  at System.Xml.XmlDocument.Load (System.IO.Stream inStream) [0x00013] in <b92efb6eef6e41b5abd458f107e6d92e>:0 
+  at Lidgren.Network.NetUPnP.‎⁬⁭​‫‪‮⁬⁬⁫⁪‌‬⁮‮‭⁫‮⁫‏‪‎‬‬‌‎⁮⁭‍⁮‭‏⁯‎‌‭‬‌‮‌‮ (System.Xml.XmlDocument , System.IO.Stream ) [0x00000] in <318ac532aecb4e62a7cf0254c61b2575>:0 
+  at Lidgren.Network.NetUPnP.ExtractServiceUrl (System.String resp) [0x0004f] in <318ac532aecb4e62a7cf0254c61b2575>:0 
+  at Lidgren.Network.NetPeer.Heartbeat () [0x00d52] in <318ac532aecb4e62a7cf0254c61b2575>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+3E0B789F5E1D9237 Connected: Connected to 3E0B789F5E1D9237
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Player connected: arcadelila (1)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Initiated average roundtrip time to 0.00 ms Remote time is: 0.172000005841255
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+914232F537191413 Connected: Connected to 914232F537191413
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Initiated average roundtrip time to 0.00 ms Remote time is: 0.172000005841255
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Allocator/ThreadsafeLinearAllocator.cpp Line: 539)
+
+To Debug, enable the define: TLA_DEBUG_STACK_LEAK in ThreadsafeLinearAllocator.cpp. This will output the callstacks of the leaked allocations
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Allocator/ThreadsafeLinearAllocator.cpp Line: 541)
+
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Allocator/ThreadsafeLinearAllocator.cpp Line: 313)
+
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+d3d11: failed to create buffer (target 0x2 mode 0 size 0) [0x80070057]
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 26.960300 ms
+[INFO] [Culture=en]
+[INFO] [Culture=de]
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Skipping deserializing spawn time, as it's missing.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[WARNING] Remaining unreplaced LiquidSources: 6
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[WARNING] Remaining unreplaced gordos: 11
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[WARNING] Saving game and profile...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[WARNING] Attempted to save game while loading, skipping.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 525660.
+Total: 288.278600 ms (FindLiveObjects: 28.020600 ms CreateObjectMapping: 12.098500 ms MarkObjects: 246.251800 ms  DeleteObjects: 1.906800 ms)
+
+SteamManager shutdown beginning
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
