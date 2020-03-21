@@ -11,8 +11,12 @@ import urllib.request
 import shutil
 import time
 
+# to read reg and find steam folder.
+from _winreg import *
+
 from ZeroLogger.ZeroLogger import *
 from win32com.client import Dispatch
+from pick import pick
 
 FileID = str("1s0iNX7UppwYNK3XrPQePu4J2jRURRw1H") #https://drive.google.com/file/d/1s0iNX7UppwYNK3XrPQePu4J2jRURRw1H/view?usp=sharing
 
@@ -59,31 +63,54 @@ def MainDownload():
         shutil.copyfileobj(response, out_file)
 
 
-def UnPack():
+def UnPack(cracked):
     info("Unpacking Files... to C:\\Program Files")
 
-    os.system('%cd%/temp/unrar.exe x %cd%/temp/SlimeRancher.rar "C:\\Program Files"')
+    if cracked:
+        os.system('%cd%/temp/unrar.exe x %cd%/temp/SlimeRancher.rar "C:\\Program Files"')
     os.system("%cd%/temp/unrar.exe x %cd%/temp/Multiplayer.rar")
     os.system("cls")
     done_task("Extracted files.")
     
 
-def installMultiplayer():
-    warn("Installing Multiplayer files!")
-    os.system('xcopy "%cd%\\Multiplayer\\*.*" "C:\\Program Files\\Slime.Rancher.v1.4.1c\\" /S /K /D /H /Y')
-    done_task("Done.")
+def installMultiplayer(cracked,path):
+    if cracked:
+        warn("Installing Multiplayer files!")
+        os.system('xcopy "%cd%\\Multiplayer\\*.*" "C:\\Program Files\\Slime.Rancher.v1.4.1c\\" /S /K /D /H /Y')
+        done_task("Done.")
 
-    info("Calling Injector. \n===================================")
-    injector = subprocess.Popen('"C:\\Program Files\\Slime.Rancher.v1.4.1c\\UnityInjector.exe"', shell=True)
-    time.sleep(10) # <-- sleep for 12''
-    injector.terminate() # <-- terminate the process
-    done_task("===================================\nInjector called")
+        info("Calling Injector. \n===================================")
+        injector = subprocess.Popen('"C:\\Program Files\\Slime.Rancher.v1.4.1c\\UnityInjector.exe"', shell=True)
+        time.sleep(10) # <-- sleep for 12''
+        injector.terminate() # <-- terminate the process
+        done_task("===================================\nInjector called")
+    else:
+        if os.path.isdir(path):
+            warn("Installing Multiplayer files!")
+            os.system('xcopy "%cd%\\Multiplayer\\*.*" "{}" /S /K /D /H /Y'.format(path))
+            done_task("Done.")
+
+            info("Calling Injector. \n===================================")
+            injector = subprocess.Popen('"{}\\UnityInjector.exe"'.format(path), shell=True)
+            time.sleep(10) # <-- sleep for 12''
+            injector.terminate() # <-- terminate the process
+            done_task("===================================\nInjector called")
+        else:
+            error("Wrong Path in installation!")
 
 def createShortcut():
+        # just to annoy cracked users until i removed this func.
+        # @echo off
+        # mshta vbscript:Execute("msgbox ""Remember to buy a legid copy of the game!!"":close")
+        # SlimeRancher.exe
+    os.system("echo @echo off > C:\\Program Files\\Slime.Rancher.v1.4.1c\\initdll.bat")
+    os.system("echo mshta vbscript:Execute(\"msgbox \"\"Remember to buy a legid copy of the game!!\"\":close\") >> C:\\Program Files\\Slime.Rancher.v1.4.1c\\initdll.bat")
+    os.system("echo SlimeRancher.exe >> C:\\Program Files\\Slime.Rancher.v1.4.1c\\initdll.bat")
+    
     info("Create Desktop Shortcut!")
     desktop = winshell.desktop()
     path = os.path.join(desktop, "SlimeRancher Multiplayer.lnk")
-    target = r"C:\\Program Files\\Slime.Rancher.v1.4.1c\\SlimeRancher.exe"
+    target = r"C:\\Program Files\\Slime.Rancher.v1.4.1c\\initdll.bat"
     wDir = r"C:\\Program Files\\Slime.Rancher.v1.4.1c\\"
     icon = r"C:\\Program Files\\Slime.Rancher.v1.4.1c\\SlimeRancher.exe"
     shell = Dispatch('WScript.Shell')
@@ -145,15 +172,38 @@ def is_admin():
 ##################################################################################################
 ##################################################################################################
 
-
-if is_admin():
+def CrackedInstall():
     initDownload()
 
     MainDownload()
 
-    UnPack()
-    installMultiplayer()
+    UnPack(True)
+    installMultiplayer(True,"")
     createShortcut()
+
+def installMod(path:str):
+    initDownload() # creating ./temp and downloading unrar.exe to unpack
+
+    UnPack(False) # unpacking the SR and Multiplayer.
+    installMultiplayer(False,path) # just multiplayer installation
+
+if is_admin():
+    title = 'Choose how to install.'
+    options = ['Cracked >:( (game + mod)', 'Use my exiting game.', 'Just Download the mod!']
+    _ , index = pick(options, title)
+    if index == 0:
+        CrackedInstall()
+    elif index == 1:
+        valid = False
+        while not valid:
+            path = input("Insert gamefolder path:")
+            if os.path.isdir(path):
+                valid = True
+                installMod(path)
+            else:
+                error("Use Folder path of the game!")
+                valid = False
+
 
 else:
     ctypes.windll.shell32.ShellExecuteW(None, "runas",sys.executable, __file__,None, 1)
